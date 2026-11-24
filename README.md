@@ -6,6 +6,7 @@ Hesap açman ya da bir şey kurman gerekmiyor; dosyaları tarayıcıda açıp ko
 
 | Klasör | İçinde |
 |--------|--------|
+| `01-oturum/` | 1. dersin sunumu (PDF) |
 | `02-oturum/` | Promptlar ve kurgusal ders notu (Tüketici Davranışı, 7. hafta) |
 
 Diğer derslerin klasörleri ders günü eklenir.
