@@ -147,6 +147,24 @@ Kendini sınamak için: Studio → Test.
 
 Ders notundan bir çalışma sitesi için: Studio → Raporlar → Etkileşimli. Rapordaki her "çıkarım"ı ders notunla karşılaştır.
 
+## 4. Sınır ve sorumluluk
+
+### Örnek beyan cümlesi
+
+Kendi ödevine göre uyarla: ne için kullandın, metnin ne kadarı senin, neyi kontrol ettin. Hocanın ya da bölümünün kuralı varsa o geçerli.
+
+```text
+Bu ödevin konu araştırmasında ve ilk taslağın yapısını kurarken Google Gemini’den yararlandım. Metnin tamamını kendim yazdım; kaynakçadaki her kaynağı açıp kontrol ettim.
+```
+
+### Bu akşamın kural seti
+
+1. Kimlik, telefon, sağlık, şifre ve şirket belgesi yazılmaz.
+2. Başkasının bilgisi, ona sormadan yazılmaz.
+3. Açıklayamadığın cevap senin cevabın değildir.
+4. Okumadığın kaynak kaynakçaya girmez.
+5. Kullandıysan tek cümleyle söylersin.
+
 ## Ders arası uygulama
 
 1. AI Studio'da kendi sistem talimatını yaz (Elif'inkini kopyalayıp değiştir).
