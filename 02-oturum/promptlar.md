@@ -105,7 +105,25 @@ Mesajın başına kim olduğunu ve neden kullanacağını yazarsan sorular sana 
 - Kişisel talimat: Ayarlar → Kişisel Zeka → "Gemini için talimatlarınız" → Ekle
 - Sohbetlerin model eğitiminde kullanılmasını kapatmak: Ayarlar → Etkinlik → "Metin ve ekler dahil sohbet içeriği" kutusunun işaretini kaldır
 
-## 3. Kendi ders notunla çalışmak · Gemini Notebook
+## 3. Kaynağı sen ver
+
+### Bir sayfa · AI Studio, URL context
+
+Sağ panel → Tools. Önce Google araması açık, URL context kapalı, yeni sohbette:
+
+```text
+Pupilica'nın "Generative AI Temelleri" programında hangi sertifikalar var ve her biri için ne gerekiyor? Kısa cevap ver; bulamadığın bir şeyi ekleme, bulamıyorsan "bulamadım" de.
+```
+
+Sonra Google araması kapalı, URL context açık, yeni sohbette:
+
+```text
+https://pupilica.com/events/110 sayfasına göre bu programda hangi sertifikalar var ve her biri için ne gerekiyor? Kısa cevap ver; sayfada yazmayan bir şeyi ekleme, yazmıyorsa "sayfada yok" de.
+```
+
+İki cevabın kaynak listesini karşılaştır. Ayarlar bir sonraki yeni sohbete taşınıyor; işin bitince Google aramasını geri aç.
+
+### Kendi ders notun · Gemini Notebook
 
 Ders notu bu klasörde: `tuketici-davranisi-7-hafta.pdf`. notebook.google.com → Yeni not defteri → Kaynak ekle → Dosya yükle.
 
@@ -126,6 +144,8 @@ Sosyal kanıt etkisi bu haftanın konusu mu? Ders notuna göre nasıl açıklan�
 ```
 
 Kendini sınamak için: Studio → Test.
+
+Ders notundan bir çalışma sitesi için: Studio → Raporlar → Etkileşimli. Rapordaki her "çıkarım"ı ders notunla karşılaştır.
 
 ## Ders arası uygulama
 
